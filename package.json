@@ -2,6 +2,7 @@
   "name": "bluegrid-backend",
   "private": true,
   "version": "1.0.0",
+  "author": "Sabareeswaran",
   "type": "module",
   "scripts": {
     "start": "tsx server/index.ts",
